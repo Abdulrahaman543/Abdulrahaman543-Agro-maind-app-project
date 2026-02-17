@@ -1,0 +1,15 @@
+Flask
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+python-dotenv
+geopy
+requests
+pytest
+httpx
+bcrypt
+python-jose
+twilio
+langchain
+transformers
